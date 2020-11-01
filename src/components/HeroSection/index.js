@@ -24,7 +24,7 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>شرکت مهندسی بازرسی دایا سیمرغ زیگورات کیان</HeroH1>
+        <HeroH1>مهندسی بازرسی دایا سیمرغ زیگورات کیان</HeroH1>
         <HeroP>
           با عضویت در خبرنامه بطور انحصاری در جریان امور قرار بگیرید، رایگان
           برای همیشه
