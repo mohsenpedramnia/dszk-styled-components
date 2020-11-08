@@ -28,7 +28,7 @@ const Sidebar = ({ isOpen, toggle }) => {
             خدمات
           </SidebarLink>
           <SidebarLink to="signup" onClick={toggle}>
-            عضویت
+            درخواست
           </SidebarLink>
         </SidebarMenu>
         <SideBtnWrap>

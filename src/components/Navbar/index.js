@@ -35,7 +35,7 @@ const Navbar = ({ toggle }) => {
               <NavLinks to="services">خدمات</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="signup">عضویت</NavLinks>
+              <NavLinks to="signup">درخواست</NavLinks>
             </NavItem>
           </NavMenu>
           <NavBtn>

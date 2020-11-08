@@ -17,7 +17,7 @@ export const homeObjOne = {
 };
 
 export const homeObjTwo = {
-  id: "about",
+  id: "discover",
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
@@ -25,7 +25,7 @@ export const homeObjTwo = {
   headLine: "نامحدود بدون هزینه",
   description:
     "دسترسی انحصاری به اپلیکیشن، که به شما اجازه بازرسی نامحدود و بدون هزینه را می دهد",
-  buttonLabel: "شروع کردن",
+  buttonLabel: "من میخواهم",
   imgStart: true,
   img: require("../../images/svg-2.svg"),
   alt: "Car",
@@ -35,19 +35,19 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  id: "about",
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: "مهندسی هوشمند",
-  headLine: "نامحدود بدون هزینه",
+  id: "signup",
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: "ارتباط مستمر",
+  headLine: "خدمت همیشگی بدون هزینه",
   description:
-    "دسترسی انحصاری به اپلیکیشن، که به شما اجازه بازرسی نامحدود و بدون هزینه را می دهد",
-  buttonLabel: "شروع کردن",
+    "با استفاده از منطق فازی، جریان برقراری ارتباطی بدون موانع فیزیکی، به طور دائم  تثبیت شد",
+  buttonLabel: "شروع آنی",
   imgStart: false,
   img: require("../../images/svg-3.svg"),
   alt: "Car",
-  dark: true,
-  primary: true,
-  darkText: false,
+  dark: false,
+  primary: false,
+  darkText: true,
 };
